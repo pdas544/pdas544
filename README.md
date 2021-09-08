@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pdas544
 - 👀 I’m interested in Web/Software Development, Project management
 - 🌱 I’m currently learning GitHub
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Android Apps, Web Development and more
 - 📫 How to reach me: pdas544@gmail.com
 
 <!---
