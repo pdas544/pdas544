@@ -1,5 +1,6 @@
 # 💫 About Me:
-- I am currently learning neural networks in the domain of deep learning.<br>Coffee Lover.<br><br>I would love to collaborate with individuals who are working in the area of<br>software development, web back-end development and computer vision<br>models.
+- I am currently learning neural networks in the domain of deep learning.<br>Coffee Lover.
+- I would love to collaborate with individuals who are working in the area of<br>software development, web back-end development and computer vision<br>models.
 - Experience in working with back-end projects.
 - Identify myself as a learner "Always".
 
